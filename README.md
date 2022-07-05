@@ -1,11 +1,14 @@
 ## Olá!!!! Eu sou  Alice Lins e amo a tecnologia!
 🔭 Trabalho como professora de programção kids
+
 🌱 Estou aprendendo, javascript, typscript, node.js, banco de dados, analise de testes
+
 ⚡ Uma curiosidade: Adoro fazer batalha de rimas e rir muito.
+
 <div align="center">
   <a href="https://github.com/Alice_Lins">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Alice-Lins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Lins&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=Alice-Lins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Lins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
