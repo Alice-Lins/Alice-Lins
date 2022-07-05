@@ -4,12 +4,12 @@
 
  🌱 Estou aprendendo, javascript, typscript, node.js, banco de dados, analise de testes
 
- ⚡ Uma curiosidade: Adora fazer batalha de rimas e rir muito com minhas filhas.
+ ⚡ Uma curiosidade: Adoro fazer batalha de rimas e rir muito.
 
 <div align="center">
-  <a href="https://github.com/Alice-Lins">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliceLins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliceLins&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/Alice_Lins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alice-Lins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alice-Lins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
