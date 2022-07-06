@@ -1,5 +1,5 @@
 ## Olá!!!! Eu sou  Alice Lins e amo a tecnologia!
-🔭 Trabalho como professora de programção kids
+🔭 Trabalho como professora de programação kids pela escola Byjus Future School.
 
 🌱 Estou aprendendo, javascript, typscript, node.js, banco de dados, analise de testes
 
