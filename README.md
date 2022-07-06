@@ -3,7 +3,7 @@
 
 🌱 Estou aprendendo, javascript, typscript, node.js, banco de dados, analise de testes
 
-⚡ Uma curiosidade: Adoro fazer batalha de rimas e rir muito.
+⚡ Uma curiosidade: Adoro fazer batalhas de rimas e rir muito.
 
 <div align="center">
   <a href="https://github.com/Alice_Lins">
